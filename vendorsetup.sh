@@ -1,0 +1,3 @@
+add_lunch_combo jedi_bacon-user
+add_lunch_combo jedi_bacon-userdebug
+add_lunch_combo jedi_bacon-eng
